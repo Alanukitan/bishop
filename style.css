@@ -238,6 +238,7 @@ h1{
 @media(max-width:320px){
     h1{
         text-align: inherit;
+        margin-top: -50px;
     }
     button{
 float: left;
@@ -251,7 +252,9 @@ float: left;
         height: 900px;
     }
     img{
-    margin-top: -380px;    
+    margin-top: -300px;
+    float: right;
+    margin-right: -500px;  
     }
 
     #box-1{
@@ -277,7 +280,7 @@ float: left;
 p{
     line-height: 1.0;
     font-size: large;
-    margin-top: 250px;
+    margin-top: 200px;
 }
 
 
